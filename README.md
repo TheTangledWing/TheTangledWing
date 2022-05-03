@@ -1,4 +1,6 @@
-### Hi there 👋
+# The Tangled Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetangledwing&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **TheTangledWing/TheTangledWing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
